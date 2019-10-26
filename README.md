@@ -1,6 +1,6 @@
 
 
-Random pixel color generator (generates a picture with random pixel colors)
+Create in Python, a generator that takes a seed, and generates RGB static (rainbow static)
 
 Create an online casino (IN PROGRESS)
 
